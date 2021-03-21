@@ -1,10 +1,12 @@
 <!DOCTYPE html>
 <html>
     <head>
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-BmbxuPwQa2lc/FVzBcNJ7UAyJxM6wuqIj61tLrc4wSX0szH/Ev+nYRRuWlolflfl" crossorigin="anonymous">
+
     </head>
     <body>
         <form>
-            <table border='1'>
+            <table border='1' align="center">
                 <tr><td><b>Progetto:</b> Baldini_Petrucci</td> <td><b>Codice progetto:</b></td></tr>
                 <tr><td><b>Data:</b> 25 Febbraio 2021</td> <td><b>Revisione:</b> 0</td></tr>
                 <tr><td><b>Cliente:</b> Assessorato del Turismo</td> <td><b>Sponsor:</b> ISIS Gobetti Volta</td></tr>
@@ -13,11 +15,13 @@
     <br>
     <br>
         <form>
-            <table border='1'>
+            <table class="table table-striped">
+
                     <tr><td>1.<b>OBIETTIVI</b></td></tr>
                     <tr><td>
                         <p> </p>
                     </td></tr>
+
                     <tr><td>2.<b>PRINCIPALI DELIVERABLE</b></td></tr>
                     <tr><td>
                         <p> </p>
@@ -32,7 +36,7 @@
                     </td></tr>
                     <tr><td>5.<b>TEMPISTICA PRELIMENARE</b></td></tr>
                     <tr><td>
-                        <a href='index.html'>Diagarmma di gant preliminale</a>
+                        <a href=''>Diagarmma di gantt preliminale</a>
                     </td></tr>
                     <tr><td>6.<b>PRINCIPALI RISORSE E LIMITI DI COSTO</b></td></tr>
                     <tr><td>
@@ -46,8 +50,10 @@
                     <tr><td>
                         <p> </p>
                     </td></tr>
-                    <tr><td>9.<b>ORGANIZZAZIONE</b></td></tr>
-                    <tr><td><b>Approvato da:</b></td> <td></td> <td></td></tr>
+                    <tr><td>9.<b>AUTORIZZAZIONE</b></td></tr>
+                    <tr><td>
+                            <tr><td><b>Approvato da:</b></td> <td></td></tr>
+                    </td></tr>
             </table>
         </form>
     </body>
