@@ -2,7 +2,6 @@
 <html>
     <head>
         <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-BmbxuPwQa2lc/FVzBcNJ7UAyJxM6wuqIj61tLrc4wSX0szH/Ev+nYRRuWlolflfl" crossorigin="anonymous">
-
     </head>
     <body>
         <form>
@@ -16,12 +15,10 @@
     <br>
         <form>
             <table class="table table-striped">
-
                     <tr><td>1.<b>OBIETTIVI</b></td></tr>
                     <tr><td>
                         <p> </p>
                     </td></tr>
-
                     <tr><td>2.<b>PRINCIPALI DELIVERABLE</b></td></tr>
                     <tr><td>
                         <p> </p>
