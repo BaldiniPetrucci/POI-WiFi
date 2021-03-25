@@ -25,9 +25,12 @@
                     </td></tr>
                     <tr><td>3.<b>MILESTONE</b></td></tr>
                     <tr><td>
-                        <p> </p>
+                        <p> 
+                            -Video di presentazione del POI della durata di un minuto
+                            -Tre immagini relative al POI con didascalia in italiano ed inglese.
+                        </p>
                     </td></tr>
-                    <tr><td>4.<b>VINOLI E DIPENDENZE</b></td></tr>
+                    <tr><td>4.<b>VINCOLI E DIPENDENZE</b></td></tr>
                     <tr><td>
                         <p> </p>
                     </td></tr>
