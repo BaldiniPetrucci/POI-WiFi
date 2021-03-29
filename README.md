@@ -46,12 +46,12 @@
                     <tr><td>6.<b>PRINCIPALI RISORSE E LIMITI DI COSTO</b></td></tr>
                     <tr><td>
                         <p> 
-                            -Risorse Umane:
-                                Gruppo programmazione pagine web
-                                Gestore DataBase
-                            -Costi:
-                                -Minitablet
-                                -Stipentio Gestore DB
+                            -Risorse Umane:<br>
+                                Gruppo programmazione pagine web<br>
+                                Gestore DataBase<br>
+                            -Costi:<br>
+                               Minitablet<br>
+                               Stipentio Gestore DB<br>
                         </p>
                     </td></tr>
                     <tr><td>7.<b>DOCUMENTI DI RIFERIMENTO E ALLEGATI</b></td></tr>
