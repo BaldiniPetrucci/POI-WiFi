@@ -26,8 +26,13 @@
                     <tr><td>3.<b>MILESTONE</b></td></tr>
                     <tr><td>
                         <p> 
-                            -Video di presentazione del POI della durata di un minuto
-                            -Tre immagini relative al POI con didascalia in italiano ed inglese.
+                            -Per la pagina multimediale di base:<br>
+                            Un video di presentazione del POI della durata di un minuto<br>
+                            Tre immagini relative al POI con didascalia in italiano ed inglese<br><br>
+                            -Per la pagina multimediale avanzata:<br>
+                            Un video di presentazione del POI della durata di cinque minuti in una fra 7 possibili lingue compreso l’italiano<br>
+                            Una galleria di una ventina di immagini con relativa descrizione<br>
+                            -Creazione pagina web per valutazione del cliente
                         </p>
                     </td></tr>
                     <tr><td>4.<b>VINCOLI E DIPENDENZE</b></td></tr>
@@ -40,7 +45,14 @@
                     </td></tr>
                     <tr><td>6.<b>PRINCIPALI RISORSE E LIMITI DI COSTO</b></td></tr>
                     <tr><td>
-                        <p> </p>
+                        <p> 
+                            -Risorse Umane:
+                                Gruppo programmazione pagine web
+                                Gestore DataBase
+                            -Costi:
+                                -Minitablet
+                                -Stipentio Gestore DB
+                        </p>
                     </td></tr>
                     <tr><td>7.<b>DOCUMENTI DI RIFERIMENTO E ALLEGATI</b></td></tr>
                     <tr><td>
