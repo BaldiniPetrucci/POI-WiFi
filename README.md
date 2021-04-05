@@ -17,11 +17,25 @@
             <table class="table table-striped">
                     <tr><td>1.<b>OBIETTIVI</b></td></tr>
                     <tr><td>
-                        <p> </p>
+                        <p>Implementazione di un servizio multimediale, sotto forma di pagine web, che descriva i POI(punti di interesse) dei monumenti presenti nella città. Il lavoro assegnatoci ci viene commisionato dall'Assessorato al Turismo</p>
                     </td></tr>
                     <tr><td>2.<b>PRINCIPALI DELIVERABLE</b></td></tr>
                     <tr><td>
-                        <p> </p>
+                        <ul>
+                            <li><b>Project Management:</b> pianificazione, analisi e studio di fattibilità del progetto</li>
+                            <li><b>Progettazione:</b>creazione sito web, struttura della rete e scelta dei protocolli per la comunicazione all'interna di essa, 
+                                progettazione del database secondo in tale ordine:
+                                <ul>
+                                    <li>Analisi e studio di fattibilità del problema(Compito del Project Management)</li>
+                                    <li>Progettazione(concettuale, logica e fisica)</li>
+                                    <li>Implementazione</li>
+                                    <li>Test di laidazione e collaudo</li>
+                                    <li>Manutenzione del database</li>
+                                </ul>
+                            </li>
+                            <li><b>Esecuzione:</b>Installazione del programma</li>
+                            <li><b></b></li>
+                        </ul>
                     </td></tr>
                     <tr><td>3.<b>MILESTONE</b></td></tr>
                     <tr><td>
@@ -37,7 +51,12 @@
                     </td></tr>
                     <tr><td>4.<b>VINCOLI E DIPENDENZE</b></td></tr>
                     <tr><td>
-                        <p> </p>
+                        <p>Le risorse necessarie per il completamento del progetto sono:</p>
+                        <ul>
+                            <li>Ampliamento dell'infrastruttura(Server) della rete già esistente del turismo</li>
+                            <li>Ambiente di sviluppo</li>
+                            <li>Minitablet muniti di GPS</li>
+                        </ul>
                     </td></tr>
                     <tr><td>5.<b>TEMPISTICA PRELIMENARE</b></td></tr>
                     <tr><td>
