@@ -65,17 +65,26 @@
                     <tr><td>6.<b>PRINCIPALI RISORSE E LIMITI DI COSTO</b></td></tr>
                     <tr><td>
                         <p> 
-                            -Risorse Umane:<br>
-                                Gruppo programmazione pagine web<br>
-                                Gestore DataBase<br>
-                            -Costi:<br>
-                               Minitablet<br>
-                               Stipentio Gestore DB<br>
+                            <p>Per il conseguimento e portata al termine del progetto affidatoci dall'Assessore del Turismo, abbiamo bisogno di: <br></p>
+                            <ul> 
+                                <li>Risorse Umane:
+                                    <ul>
+                                        <li>Gruppo programmazione pagine web</li>
+                                        <li>Esperti Esterni</li>
+                                    </ul>
+                                </li>
+                                <li>
+                                    <ul>
+                                        <li>Un Server per poter creare la pagina multimediale con i relati contenuti. Il costo ammonta a 2.000 euro</li>
+                                        <li>Minitablet per permettere l'accesso alla pagina multimediale. Il costo di un singolo Minitablet è di 100 euro e considerando l'afflusso di visitatori nella città di Firenze il costo totale ammonta a 1.500.000</li>
+                                    </ul>
+                                </li>
+                            </ul>
                         </p>
                     </td></tr>
                     <tr><td>7.<b>DOCUMENTI DI RIFERIMENTO E ALLEGATI</b></td></tr>
                     <tr><td>
-                        <p> </p>
+                        <p>WBS, Diagramma di Gantt e RBS </p>
                     </td></tr>
                     <tr><td>8.<b>STRUTTURA ORGANIZZATIVA</b></td></tr>
                     <tr><td>
@@ -83,7 +92,7 @@
                     </td></tr>
                     <tr><td>9.<b>AUTORIZZAZIONE</b></td></tr>
                     <tr><td>
-                            <tr><td><b>Approvato da:</b></td> <td></td></tr>
+                            <p><b>Approvato da:</b></p>
                     </td></tr>
             </table>
         </form>
