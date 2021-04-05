@@ -1,7 +1,6 @@
 <!DOCTYPE html>
-<html lang="en">
-    <head>
-        <title>App Panini</title>
+<html>
+    <head>        
         <script src="node_modules.zip/frappe-gantt/dist/frappe-gantt.js"></script>
         <link rel="stylesheet" href="node_modules/frappe-gantt/dist/frappe-gantt.css">
         <link rel="stylesheet" href="cssAppPanini.css">
