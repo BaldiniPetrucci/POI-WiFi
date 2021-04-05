@@ -33,21 +33,22 @@
                                     <li>Manutenzione del database</li>
                                 </ul>
                             </li>
-                            <li><b>Esecuzione:</b>Installazione del programma</li>
-                            <li><b></b></li>
+                            <li><b>Esecuzione:</b>Installazione del programma</li>                            
                         </ul>
                     </td></tr>
                     <tr><td>3.<b>MILESTONE</b></td></tr>
                     <tr><td>
-                        <p> 
-                            -Per la pagina multimediale di base:<br>
-                            Un video di presentazione del POI della durata di un minuto<br>
-                            Tre immagini relative al POI con didascalia in italiano ed inglese<br><br>
-                            -Per la pagina multimediale avanzata:<br>
-                            Un video di presentazione del POI della durata di cinque minuti in una fra 7 possibili lingue compreso l’italiano<br>
-                            Una galleria di una ventina di immagini con relativa descrizione<br>
-                            -Creazione pagina web per valutazione del cliente
-                        </p>
+                         <ul>
+                                <li>Per la pagina multimediale di base:
+                                    Un video di presentazione del POI della durata di un minuto
+                                    Tre immagini relative al POI con didascalia in italiano ed inglese
+                                </li>
+                                <li>Per la pagina multimediale avanzata:
+                                    Un video di presentazione del POI della durata di cinque minuti in una fra 7 possibili lingue compreso l’italiano
+                                    Una galleria di una ventina di immagini con relativa descrizione
+                                </li>
+                                <li>Creazione pagina web per valutazione del cliente</li>
+                            </ul>
                     </td></tr>
                     <tr><td>4.<b>VINCOLI E DIPENDENZE</b></td></tr>
                     <tr><td>
