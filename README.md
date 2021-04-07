@@ -89,11 +89,11 @@
                     </td></tr>
                     <tr><td>8.<b>STRUTTURA ORGANIZZATIVA</b></td></tr>
                     <tr><td>
-                        <p> </p>
+                        <p>Project Manager l'ing. Lorenzo Fanizza<br> Dipendenti:Alessio Petrucci e Bruno Baldini</p>
                     </td></tr>
                     <tr><td>9.<b>AUTORIZZAZIONE</b></td></tr>
                     <tr><td>
-                            <p><b>Approvato da:</b></p>
+                            <p><b>Approvato da:</b>Professore Pardini</p>
                     </td></tr>
             </table>
         </form>
