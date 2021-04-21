@@ -18,39 +18,39 @@
         <form>
             <table class="table table-striped">
                     <tr><td>1.1<b>Analisi Commessa</b></td><td></td><td>Totale:<b></b></td></tr>
-                    <tr><td>Risorse Umane(Dipendenti)</td><td>quantitàP=5<br>tempo=5g<br>prezzo unitario=15 euro</td><td></td></tr>
+                    <tr><td>Risorse Umane(Dipendenti)</td><td>quantitàP=5<br>tempo=5g<br>prezzo unitario=10 euro</td><td></td></tr>
                     <tr><td>Comessa</td><td>La commessa ci è stata fornita dall'Assessorato del Turismo</td><td>0 euro</td></tr>
                     <tr><td>1.2<b>Definizione Budget</b></td><td></td><td>Totale:<b></b></td></tr>
-                    <tr><td>Risorse Umane(Dipendenti)</td><td>quantitàP=3<br>tempo=1g<br>prezzo unitario=15 euro</td><td></td></tr>
+                    <tr><td>Risorse Umane(Dipendenti)</td><td>quantitàP=3<br>tempo=1g<br>prezzo unitario=10 euro</td><td></td></tr>
                     <tr><td>2.1<b>Progettazione Concettuale</b></td><td></td><td>Totale:<b></b></td></tr>
-                    <tr><td>Risorse Umane(Dipendenti)</td><td>quantitàP=3<br>tempo=7g<br>prezzo unitario=15 euro</td><td></td></tr>
+                    <tr><td>Risorse Umane(Dipendenti)</td><td>quantitàP=3<br>tempo=7g<br>prezzo unitario=10 euro</td><td></td></tr>
                     <tr><td>Risorse Software(es Miro per rappresentare graficamente lo Schema E-R)</td><td>quantitàP=1(piattaforma condivisa)<br>tempo=7g<br>prezzo unitario=0(piattaforma gratuita)</td><td></td></tr>
                     <tr><td>2.2<b>Progettazione Logica</b></td><td></td><td>Totale:<b></b></td></tr>
-                    <tr><td>Risorse Umane(Dipendenti)</td><td>quantitàP=3<br>tempo=7g<br>prezzo unitario=15 euro</td><td></td></tr>
+                    <tr><td>Risorse Umane(Dipendenti)</td><td>quantitàP=3<br>tempo=7g<br>prezzo unitario=10 euro</td><td></td></tr>
                     <tr><td>Risorse Software(es Word per rappresentare lo Schema Relazionale)</td><td>quantità=1(piattaforma condivisa)<br>tempo=7g<br>prezzo unitario=0(piattaforma gratuita)</td><td></td></tr>
                     <tr><td>2.3<b>Pianificazione dell'infrastruttura della rete</b></td><td></td><td>Totale:<b></b></td></tr>
                     <tr><td>Risorse Umane(Esperti esterni)</td><td>quantitàP=4<br>tempo=7g<br>prezzo unitario=20 euro</td><td></td></tr>
                     <tr><td>Risorse Software(es Rinho per rappresentare l'infrastruttura di rete)</td><td>quantità=1(piattaforma condivisa)<br>tempo=7g<br>prezzo unitario=0(piattaforma gratuita)</td><td></td></tr>
                     <tr><td>2.4<b>Progettazione sito Web</b></td><td></td><td>Totale:<b></b></td></tr>
-                    <tr><td>Risorse Umane(Dipendenti)</td><td>quantitàP=5<br>tempo=5g<br>prezzo unitario=15 euro</td><td></td></tr>
+                    <tr><td>Risorse Umane(Dipendenti)</td><td>quantitàP=5<br>tempo=5g<br>prezzo unitario=10 euro</td><td></td></tr>
                     <tr><td>Risorse Software(es Visual Studio per programmazione sito web)</td><td>quantità=1(piattaforma condivisa)<br>tempo=5g<br>prezzo unitario=0(piattaforma gratuita)</td><td></td></tr>
                     <tr><td>Risorse Materiali(Server sul quale verrà caricato il sito web aziendale)</td><td>quantità=1<br>prezzo unitario=2000 euro</td><td></td></tr>
                     <tr><td>3.1<b>Studio Della Concorrenza e Interviste</b></td><td></td><td>Totale:<b></b></td></tr>
-                    <tr><td>Risorse Umane(Dipendenti)</td><td>quantitàP=4<br>tempo=7g<br>prezzo unitario=15 euro</td><td></td></tr>
+                    <tr><td>Risorse Umane(Dipendenti)</td><td>quantitàP=4<br>tempo=7g<br>prezzo unitario=10 euro</td><td></td></tr>
                     <tr><td>3.2<b>Implementazione rete</b></td><td></td><td>Totale:<b></b></td></tr>
                     <tr><td>Risorse Umane(Esperti esterni)</td><td>quantitàP=4<br>tempo=15g<br>prezzo unitario=20 euro</td><td></td></tr>
                     <tr><td>Risorse Materiali(Procurate dall' azienda esterna)<br>tempo=15g<br>prezzo compreso nei 20 euro del servizio</td><td></td></tr>
                     <tr><td>3.3<b>Programmazione sito Web</b></td><td></td><td>Totale:<b></b></td></tr>
-                    <tr><td>Risorse Umane(Dipendenti)</td><td>quantitàP=3<br>tempo=14g<br>prezzo unitario=15 euro</td><td></td></tr>
+                    <tr><td>Risorse Umane(Dipendenti)</td><td>quantitàP=3<br>tempo=14g<br>prezzo unitario=10 euro</td><td></td></tr>
                     <tr><td>Risorse Software(es Visual Studio per programmazione sito web)</td><td>quantità=1(piattaforma condivisa)<br>tempo=5g<br>prezzo unitario=0(piattaforma gratuita)</td><td></td></tr>
                     <tr><td>3.4<b>Progettazione DB(Progettazione fisica e popolazione)</b></td><td></td><td>Totale:<b></b></td></tr>
-                    <tr><td>Risorse Umane(Dipendenti)</td><td>quantitàP=4<br>tempo=14g<br>prezzo unitario=15 euro</td><td></td></tr>
+                    <tr><td>Risorse Umane(Dipendenti)</td><td>quantitàP=4<br>tempo=14g<br>prezzo unitario=10 euro</td><td></td></tr>
                     <tr><td>Risorse Software(es PHP MyAdmin)</td><td>quantità=1(piattaforma condivisa)<br>tempo=14g<br>prezzo unitario=0(piattaforma gratuita)</td><td></td></tr>
                     <tr><td>Risorse Materiali(Server sul quale verrà caricato il DB aziendale)</td><td>quantità=1<br>prezzo unitario=2000 euro</td><td></td></tr>
                     <tr><td>4.1<b>Test di validazione e collaudo</b></td><td></td><td>Totale:<b></b></td></tr>
-                    <tr><td>Risorse Umane(Dipendenti)</td><td>quantitàP=4<br>tempo=4g<br>prezzo unitario=15 euro</td><td></td></tr>
+                    <tr><td>Risorse Umane(Dipendenti)</td><td>quantitàP=4<br>tempo=4g<br>prezzo unitario=10 euro</td><td></td></tr>
                     <tr><td>4.2<b>Installazione e avvio</b></td><td></td><td>Totale:<b></b></td></tr>
-                    <tr><td>Risorse Umane(Dipendenti)</td><td>quantitàP=3<br>tempo=3g<br>prezzo unitario=15 euro</td><td></td></tr>
+                    <tr><td>Risorse Umane(Dipendenti)</td><td>quantitàP=3<br>tempo=3g<br>prezzo unitario=10 euro</td><td></td></tr>
                 </table>
         </form>
     </body>
