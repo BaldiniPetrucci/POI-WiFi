@@ -45,8 +45,8 @@
                 },
                 {
                     start: '2021-02-27',
-                    end: '2021-03-10',
-                    name: 'Pianificazione dell'infrastruttura della Rete',
+                    end: '2021-03-6',
+                    name: 'Pianificazione dell infrastruttura della Rete',
                     id: 'task_4',
                     progress: 0,
                     dependencies: 'task_1'
