@@ -39,7 +39,7 @@
                     <tr><td>Risorse Umane(Dipendenti)</td><td>quantitàP=4<br>tempo=7g<br>prezzo unitario=10 euro</td><td>6720 euro</td></tr>
                     <tr><td>3.2<b>Implementazione rete</b></td><td></td><td>Totale:<b>21600 euro</b></td></tr>
                     <tr><td>Risorse Umane(Esperti esterni)</td><td>quantitàP=4<br>tempo=15g<br>prezzo unitario=15 euro</td><td>21600 euro</td></tr>
-                    <tr><td>Risorse Materiali(Procurate dall' azienda esterna)<br>tempo=15g<br>prezzo compreso nei 15 euro del servizio</td><td></td></tr>
+                    <tr><td>Risorse Materiali(Procurate dall' azienda esterna)<br>tempo=15g<br>prezzo compreso nei 15 euro del servizio</td><td>0 euro</td></tr>
                     <tr><td>3.3<b>Programmazione sito Web</b></td><td></td><td>Totale:<b>10080 euro</b></td></tr>
                     <tr><td>Risorse Umane(Dipendenti)</td><td>quantitàP=3<br>tempo=14g<br>prezzo unitario=10 euro</td><td>10080 euro</td></tr>
                     <tr><td>Risorse Software(es Visual Studio per programmazione sito web)</td><td>quantità=1(piattaforma condivisa)<br>tempo=5g<br>prezzo unitario=0(piattaforma gratuita)</td><td>0 euro</td></tr>
