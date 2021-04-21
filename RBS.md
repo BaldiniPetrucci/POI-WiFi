@@ -24,16 +24,16 @@
                     <tr><td>Risorse Umane(Dipendenti)</td><td>quantitàP=3<br>tempo=1g<br>prezzo unitario=10 euro</td><td>720 euro</td></tr>
                     <tr><td>2.1<b>Progettazione Concettuale</b></td><td></td><td>Totale:<b>3360 euro</b></td></tr>
                     <tr><td>Risorse Umane(Dipendenti)</td><td>quantitàP=3<br>tempo=7g<br>prezzo unitario=10 euro</td><td>3360 euro</td></tr>
-                    <tr><td>Risorse Software(es Miro per rappresentare graficamente lo Schema E-R)</td><td>quantitàP=1(piattaforma condivisa)<br>tempo=7g<br>prezzo unitario=0(piattaforma gratuita)</td><td></td></tr>
+                    <tr><td>Risorse Software(es Miro per rappresentare graficamente lo Schema E-R)</td><td>quantitàP=1(piattaforma condivisa)<br>tempo=7g<br>prezzo unitario=0(piattaforma gratuita)</td><td>0 euro</td></tr>
                     <tr><td>2.2<b>Progettazione Logica</b></td><td></td><td>Totale:<b>5040 euro</b></td></tr>
                     <tr><td>Risorse Umane(Dipendenti)</td><td>quantitàP=3<br>tempo=7g<br>prezzo unitario=10 euro</td><td>5040 euro</td></tr>
-                    <tr><td>Risorse Software(es Word per rappresentare lo Schema Relazionale)</td><td>quantità=1(piattaforma condivisa)<br>tempo=7g<br>prezzo unitario=0(piattaforma gratuita)</td><td></td></tr>
+                    <tr><td>Risorse Software(es Word per rappresentare lo Schema Relazionale)</td><td>quantità=1(piattaforma condivisa)<br>tempo=7g<br>prezzo unitario=0(piattaforma gratuita)</td><td>0 euro</td></tr>
                     <tr><td>2.3<b>Pianificazione dell'infrastruttura della rete</b></td><td></td><td>Totale:<b>7560 euro</b></td></tr>
                     <tr><td>Risorse Umane(Esperti esterni)</td><td>quantitàP=3<br>tempo=7g<br>prezzo unitario=15 euro</td><td>7560 euro</td></tr>
-                    <tr><td>Risorse Software(es Rinho per rappresentare l'infrastruttura di rete)</td><td>quantità=1(piattaforma condivisa)<br>tempo=7g<br>prezzo unitario=0(piattaforma gratuita)</td><td></td></tr>
+                    <tr><td>Risorse Software(es Rinho per rappresentare l'infrastruttura di rete)</td><td>quantità=1(piattaforma condivisa)<br>tempo=7g<br>prezzo unitario=0(piattaforma gratuita)</td><td>0 euro</td></tr>
                     <tr><td>2.4<b>Progettazione sito Web</b></td><td></td><td>Totale:<b>6000 euro</b></td></tr>
                     <tr><td>Risorse Umane(Dipendenti)</td><td>quantitàP=5<br>tempo=5g<br>prezzo unitario=10 euro</td><td>6000 euro</td></tr>
-                    <tr><td>Risorse Software(es Visual Studio per programmazione sito web)</td><td>quantità=1(piattaforma condivisa)<br>tempo=5g<br>prezzo unitario=0(piattaforma gratuita)</td><td></td></tr>
+                    <tr><td>Risorse Software(es Visual Studio per programmazione sito web)</td><td>quantità=1(piattaforma condivisa)<br>tempo=5g<br>prezzo unitario=0(piattaforma gratuita)</td><td>0 euro</td></tr>
                     <tr><td>Risorse Materiali(Server sul quale verrà caricato il sito web aziendale)</td><td>quantità=1<br>prezzo unitario=2000 euro</td><td>2000 euro</td></tr>
                     <tr><td>3.1<b>Studio Della Concorrenza e Interviste</b></td><td></td><td>Totale:<b>6720 euro</b></td></tr>
                     <tr><td>Risorse Umane(Dipendenti)</td><td>quantitàP=4<br>tempo=7g<br>prezzo unitario=10 euro</td><td>6720 euro</td></tr>
@@ -42,10 +42,10 @@
                     <tr><td>Risorse Materiali(Procurate dall' azienda esterna)<br>tempo=15g<br>prezzo compreso nei 15 euro del servizio</td><td></td></tr>
                     <tr><td>3.3<b>Programmazione sito Web</b></td><td></td><td>Totale:<b>10080 euro</b></td></tr>
                     <tr><td>Risorse Umane(Dipendenti)</td><td>quantitàP=3<br>tempo=14g<br>prezzo unitario=10 euro</td><td>10080 euro</td></tr>
-                    <tr><td>Risorse Software(es Visual Studio per programmazione sito web)</td><td>quantità=1(piattaforma condivisa)<br>tempo=5g<br>prezzo unitario=0(piattaforma gratuita)</td><td></td></tr>
+                    <tr><td>Risorse Software(es Visual Studio per programmazione sito web)</td><td>quantità=1(piattaforma condivisa)<br>tempo=5g<br>prezzo unitario=0(piattaforma gratuita)</td><td>0 euro</td></tr>
                     <tr><td>3.4<b>Progettazione DB(Progettazione fisica e popolazione)</b></td><td></td><td>Totale:<b>13440 euro</b></td></tr>
                     <tr><td>Risorse Umane(Dipendenti)</td><td>quantitàP=4<br>tempo=14g<br>prezzo unitario=10 euro</td><td>13440 euro</td></tr>
-                    <tr><td>Risorse Software(es PHP MyAdmin)</td><td>quantità=1(piattaforma condivisa)<br>tempo=14g<br>prezzo unitario=0(piattaforma gratuita)</td><td></td></tr>
+                    <tr><td>Risorse Software(es PHP MyAdmin)</td><td>quantità=1(piattaforma condivisa)<br>tempo=14g<br>prezzo unitario=0(piattaforma gratuita)</td><td>0 euro</td></tr>
                     <tr><td>Risorse Materiali(Server sul quale verrà caricato il DB aziendale)</td><td>quantità=1<br>prezzo unitario=2000 euro</td><td>2000 euro</td></tr>
                     <tr><td>4.1<b>Test di validazione e collaudo</b></td><td></td><td>Totale:<b>3840 euro</b></td></tr>
                     <tr><td>Risorse Umane(Dipendenti)</td><td>quantitàP=4<br>tempo=4g<br>prezzo unitario=10 euro</td><td>3840 euro</td></tr>
