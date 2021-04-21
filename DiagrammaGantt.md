@@ -86,7 +86,7 @@
                     {
                     start: '2021-03-13',
                     end: '2021-03-27',
-                    name: 'Progettazzione BataBase (Progettazione fisica e Popolazione)',
+                    name: 'Progettazzione DataBase (Progettazione fisica e Popolazione)',
                     id: 'task_9',
                     progress: 0,
                     dependencies: 'task_3'
@@ -101,7 +101,7 @@
                 },
                     {
                     start: '2021-03-31',
-                    end: '2021-04-05',
+                    end: '2021-04-02',
                     name: 'Installazione e avvio',
                     id: 'task_11',
                     progress: 0,
