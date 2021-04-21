@@ -13,7 +13,7 @@
         </form>
     <br>
     <br>
-    <h6>Per le fasi di avvio e pianificazione, le risorse umane adoperate sono i dipendenti della nostra azienda, esperti in campo di progettazione e pianificazione di un DB. Per lo sviluppo e la pianificazione dell'infrastruttura di rete, ci affideremo ad una azienda esterna, esperta per nel settore. Il contratto dei dipendenti esterni prevede una paga oraria di 20 euro. Infine il Project Manager Lorenzo Fanizza avrà una paga di 30 euro l'ora, per ogni attività svolta, poiche le supervisiona.</h6>
+    <h6>Per le fasi di avvio e pianificazione, le risorse umane adoperate sono i dipendenti della nostra azienda, esperti in campo di progettazione e pianificazione di un DB. Per lo sviluppo e la pianificazione dell'infrastruttura di rete, ci affideremo ad una azienda esterna, esperta per nel settore. Il contratto dei dipendenti esterni prevede una paga oraria di 15 euro. Infine il Project Manager Lorenzo Fanizza avrà una paga di 20 euro l'ora, per ogni attività svolta, poiche le supervisiona.</h6>
     <br>
         <form>
             <table class="table table-striped">
@@ -29,7 +29,7 @@
                     <tr><td>Risorse Umane(Dipendenti)</td><td>quantitàP=3<br>tempo=7g<br>prezzo unitario=10 euro</td><td></td></tr>
                     <tr><td>Risorse Software(es Word per rappresentare lo Schema Relazionale)</td><td>quantità=1(piattaforma condivisa)<br>tempo=7g<br>prezzo unitario=0(piattaforma gratuita)</td><td></td></tr>
                     <tr><td>2.3<b>Pianificazione dell'infrastruttura della rete</b></td><td></td><td>Totale:<b></b></td></tr>
-                    <tr><td>Risorse Umane(Esperti esterni)</td><td>quantitàP=4<br>tempo=7g<br>prezzo unitario=20 euro</td><td></td></tr>
+                    <tr><td>Risorse Umane(Esperti esterni)</td><td>quantitàP=4<br>tempo=7g<br>prezzo unitario=15 euro</td><td></td></tr>
                     <tr><td>Risorse Software(es Rinho per rappresentare l'infrastruttura di rete)</td><td>quantità=1(piattaforma condivisa)<br>tempo=7g<br>prezzo unitario=0(piattaforma gratuita)</td><td></td></tr>
                     <tr><td>2.4<b>Progettazione sito Web</b></td><td></td><td>Totale:<b></b></td></tr>
                     <tr><td>Risorse Umane(Dipendenti)</td><td>quantitàP=5<br>tempo=5g<br>prezzo unitario=10 euro</td><td></td></tr>
@@ -38,8 +38,8 @@
                     <tr><td>3.1<b>Studio Della Concorrenza e Interviste</b></td><td></td><td>Totale:<b></b></td></tr>
                     <tr><td>Risorse Umane(Dipendenti)</td><td>quantitàP=4<br>tempo=7g<br>prezzo unitario=10 euro</td><td></td></tr>
                     <tr><td>3.2<b>Implementazione rete</b></td><td></td><td>Totale:<b></b></td></tr>
-                    <tr><td>Risorse Umane(Esperti esterni)</td><td>quantitàP=4<br>tempo=15g<br>prezzo unitario=20 euro</td><td></td></tr>
-                    <tr><td>Risorse Materiali(Procurate dall' azienda esterna)<br>tempo=15g<br>prezzo compreso nei 20 euro del servizio</td><td></td></tr>
+                    <tr><td>Risorse Umane(Esperti esterni)</td><td>quantitàP=4<br>tempo=15g<br>prezzo unitario=15 euro</td><td></td></tr>
+                    <tr><td>Risorse Materiali(Procurate dall' azienda esterna)<br>tempo=15g<br>prezzo compreso nei 15 euro del servizio</td><td></td></tr>
                     <tr><td>3.3<b>Programmazione sito Web</b></td><td></td><td>Totale:<b></b></td></tr>
                     <tr><td>Risorse Umane(Dipendenti)</td><td>quantitàP=3<br>tempo=14g<br>prezzo unitario=10 euro</td><td></td></tr>
                     <tr><td>Risorse Software(es Visual Studio per programmazione sito web)</td><td>quantità=1(piattaforma condivisa)<br>tempo=5g<br>prezzo unitario=0(piattaforma gratuita)</td><td></td></tr>
