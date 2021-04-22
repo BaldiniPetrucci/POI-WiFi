@@ -61,7 +61,7 @@
                     </td></tr>
                     <tr><td>5.<b>TEMPISTICA PRELIMENARE</b></td></tr>
                     <tr><td>
-                        <a href='DiagrammadiGantt.md'>Diagarmma di gantt preliminale</a>
+                        <a href='DiagrammaGantt.md'>Diagarmma di gantt preliminale</a>
                     </td></tr>
                     <tr><td>6.<b>PRINCIPALI RISORSE E LIMITI DI COSTO</b></td></tr>
                     <tr><td>
